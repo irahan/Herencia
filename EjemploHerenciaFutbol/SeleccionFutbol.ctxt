@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SeleccionFutbol()
+comment1.params=id\ nombre\ apellidos\ edad
+comment1.target=SeleccionFutbol(int,\ java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=void\ Concentrarse()
+comment11.params=
+comment11.target=void\ Viajar()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getApellidos()
+comment7.params=apellidos
+comment7.target=void\ setApellidos(java.lang.String)
+comment8.params=
+comment8.target=int\ getEdad()
+comment9.params=edad
+comment9.target=void\ setEdad(int)
+numComments=12

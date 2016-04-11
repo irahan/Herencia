@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Masajista()
+comment1.params=id\ nombre\ apellidos\ edad\ titulacion\ aniosExperiencia
+comment1.target=Masajista(int,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTitulacion()
+comment3.params=titulacion
+comment3.target=void\ setTitulacion(java.lang.String)
+comment4.params=
+comment4.target=int\ getAniosExperiencia()
+comment5.params=aniosExperiencia
+comment5.target=void\ setAniosExperiencia(int)
+comment6.params=
+comment6.target=void\ darMasaje()
+numComments=7
